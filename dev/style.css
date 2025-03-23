@@ -18,7 +18,29 @@ body {
   margin: auto;
   width: 100%;
   text-align: left;
+  display: inline-block;
   border-style: solid;
-  border-color: aqua;
+  border-color: #00aaff;
   padding: 10px;
+}
+
+.button {
+  background-color: #00aaff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.container {
+  padding: 20px;
+}
+
+.imagecenter{
+  margin: auto;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
 }
