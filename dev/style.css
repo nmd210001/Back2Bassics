@@ -13,3 +13,12 @@ body {
   text-align: center;
   padding: 10px;
 }
+
+	.dashboard {
+  margin: auto;
+  width: 100%;
+  text-align: left;
+  border-style: solid;
+  border-color: aqua;
+  padding: 10px;
+}
